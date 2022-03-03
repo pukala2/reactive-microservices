@@ -1,0 +1,5 @@
+com\reactivespring\controller\MoviesInfoController.class
+com\reactivespring\model\MovieInfo.class
+com\reactivespring\service\MovieInfoService.class
+com\reactivespring\repository\MovieInfoRepository.class
+com\reactivespring\StudentApplication.class
